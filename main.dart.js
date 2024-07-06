@@ -33314,7 +33314,7 @@ A.Ul.prototype={
 $2(a,b){var s,r=null,q="telegram",p="stackoverflow",o=this.a,n=t.nA
 if(b.b>820){s=A.a0c(0,0,0,0.69)
 return A.qH(B.bN,A.a([new A.lh(r),A.Y6(A.a([A.vw(r,A.HN(A.Pe(r,r,B.bc,r,r,!0,r,B.F2,B.cF,r,r,B.a0,B.ax),r,r),s,r,250,r,r,860),A.a2r(A.a([A.ng(B.k,B.h,50,2,70,!0,new A.Uf(o),B.k,"github",B.bF,200),B.tL,A.ng(B.k,B.h,50,2,70,!0,new A.Ug(o),B.k,q,B.bF,200),B.tL,A.ng(B.k,B.h,50,2,70,!0,new A.Uh(o),B.k,p,B.bF,200)],n),B.eQ,B.fs,B.fu)],n),B.ft)],n),B.cA)}else{s=A.a0c(0,0,0,0.69)
-return A.qH(B.bN,A.a([new A.lh(r),A.Y6(A.a([A.vw(r,A.HN(A.Pe(r,r,B.bc,r,r,!0,r,B.F3,B.cF,r,r,B.a0,B.ax),r,r),s,r,320,r,r,860),A.Y6(A.a([A.ng(B.k,B.h,50,2,50,!0,new A.Ui(o),B.k,"github",B.bF,180),B.tM,A.ng(B.k,B.h,50,2,50,!0,new A.Uj(o),B.k,q,B.bF,180),B.tM,A.ng(B.k,B.h,50,2,50,!0,new A.Uk(o),B.k,p,B.bF,180)],n),B.fs)],n),B.ft)],n),B.cA)}},
+return A.qH(B.bN,A.a([new A.lh(r),A.Y6(A.a([A.vw(r,A.HN(A.Pe(r,r,B.bc,r,r,!0,r,B.F5,B.cF,r,r,B.a0,B.ax),r,r),s,r,230,r,r,560),A.Y6(A.a([A.ng(B.k,B.h,50,2,50,!0,new A.Ui(o),B.k,"github",B.bF,180),B.tM,A.ng(B.k,B.h,50,2,50,!0,new A.Uj(o),B.k,q,B.bF,180),B.tM,A.ng(B.k,B.h,50,2,50,!0,new A.Uk(o),B.k,p,B.bF,180)],n),B.fs)],n),B.ft)],n),B.cA)}},
 $S:120}
 A.Uf.prototype={
 $0(){var s=0,r=A.O(t.H),q,p=this
@@ -55492,18 +55492,18 @@ B.m=new A.zX(1,"even")
 B.tT=new A.qT(2,"ellipsis")
 B.F0=new A.qT(3,"visible")
 B.F1=new A.qW(null,null,null)
-B.G9=new A.l(!0,B.h,null,"SourceCode",null,null,40,B.d7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.F4=new A.e2("flutter",null,B.aB,B.G9)
-B.tW=new A.l(!0,B.h,null,"SourceCode",null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.G9=new A.l(!0,B.h,null,"SourceCode",null,null,80,B.d7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.F3=new A.e2("flutter",null,B.aB,B.G9)
+B.tW=new A.l(!0,B.h,null,"SourceCode",null,null,80,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.F6=new A.e2(" developer",null,B.aB,B.tW)
-B.yz=A.a(s([B.F4,B.F6]),t.nO)
-B.F3=new A.e2("I am nondescript\n",B.yz,B.aB,B.tW)
-B.Ga=new A.l(!0,B.h,null,"SourceCode",null,null,80,B.d7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.F5=new A.e2("flutter",null,B.aB,B.Ga)
-B.tX=new A.l(!0,B.h,null,"SourceCode",null,null,80,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.yz=A.a(s([B.F3,B.F6]),t.nO)
+B.F2=new A.e2("I am nondescript\n",B.yz,B.aB,B.tW)
+B.Ga=new A.l(!0,B.h,null,"SourceCode",null,null,37,B.d7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.F4=new A.e2("flutter",null,B.aB,B.Ga)
+B.tX=new A.l(!0,B.h,null,"SourceCode",null,null,37,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.F7=new A.e2(" developer",null,B.aB,B.tX)
-B.yA=A.a(s([B.F5,B.F7]),t.nO)
-B.F2=new A.e2("I am nondescript\n",B.yA,B.aB,B.tX)
+B.yA=A.a(s([B.F4,B.F7]),t.nO)
+B.F5=new A.e2("I am nondescript,\n",B.yA,B.aB,B.tX)
 B.tU=new A.l(!0,B.h,null,null,null,null,20,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.GG=new A.l(!0,null,null,null,null,null,null,B.d7,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.wd=new A.z(3506372608)
